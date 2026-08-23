@@ -43,17 +43,4 @@ I build full-stack and mobile applications using **Python, JavaScript, Flask, an
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pramilacz&show_icons=true&theme=default&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pramilacz&theme=default" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pramilacz&layout=compact&theme=default" alt="Top Languages" />
-</p>
-
----
-
 <p align="center"><i>Thanks for stopping by — always open to internship opportunities and collaboration! 🚀</i></p>
