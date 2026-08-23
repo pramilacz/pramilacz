@@ -1,4 +1,4 @@
-<h1 align="center">👋 I'm Pramila Chamuditha</h1>
+<h1 align="center">👋🏻 I'm Pramila Chamuditha</h1>
 
 <p align="center">
   <b>Software Engineer & Full-Stack Developer</b> | Python • Flask • React | REST APIs • OAuth 2.0 | Software Engineering Undergraduate
@@ -46,12 +46,12 @@ I build full-stack and mobile applications using **Python, JavaScript, Flask, an
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=default" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pramilacz&show_icons=true&theme=default&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pramilacz&theme=default" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pramilacz&layout=compact&theme=default" alt="Top Languages" />
 </p>
 
 ---
