@@ -1,5 +1,5 @@
 <!-- ============================ HEADER ============================ -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=240&section=header&text=Pramila%20Chamuditha&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20AI%20Explorer&descAlignY=60&descSize=18" width="100%" alt="Pramila Chamuditha" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=240&section=header&text=Pramila%20Chamuditha&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20AI%20Explorer&descAlignY=62&descSize=18&animation=fadeIn" width="100%" alt="Pramila Chamuditha" />
 
 <div align="center">
 
@@ -208,10 +208,6 @@ flowchart LR
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pramilacz&theme=tokyonight&hide_border=true" alt="Contribution streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pramilacz&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" width="100%" />
 </p>
 
 <!-- Snake: needs .github/workflows/snake.yml (included) to run once, then this image appears -->
