@@ -1,5 +1,5 @@
 <!-- ============================ HEADER ============================ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=240&section=header&text=Pramila%20Chamuditha&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20AI%20Explorer&descAlignY=62&descSize=18&animation=fadeIn" width="100%" alt="Pramila Chamuditha" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=240&section=header&text=Pramila%20Chamuditha&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20AI%20Explorer&descAlignY=62&descSize=18" width="100%" alt="Pramila Chamuditha" />
 
 <div align="center">
 
@@ -15,8 +15,11 @@
 <img src="https://img.shields.io/badge/Status-Open%20to%20Internships-22c55e?style=flat-square" alt="Open to internships" />
 
 <br/><br/>
-
-[**About**](#-about) &nbsp;·&nbsp; [**Stack**](#-tech-stack) &nbsp;·&nbsp; [**Projects**](#-featured-projects) &nbsp;·&nbsp; [**Stats**](#-github-analytics) &nbsp;·&nbsp; [**Contact**](#-lets-connect)
+<a href="#-about"><img src="https://img.shields.io/badge/About-0f172a?style=for-the-badge&logo=readme&logoColor=38bdf8" alt="About" /></a>
+<a href="#-tech-stack"><img src="https://img.shields.io/badge/Stack-0f172a?style=for-the-badge&logo=stackblitz&logoColor=38bdf8" alt="Stack" /></a>
+<a href="#-featured-projects"><img src="https://img.shields.io/badge/Projects-0f172a?style=for-the-badge&logo=rocket&logoColor=38bdf8" alt="Projects" /></a>
+<a href="#-github-analytics"><img src="https://img.shields.io/badge/Stats-0f172a?style=for-the-badge&logo=chartdotjs&logoColor=38bdf8" alt="Stats" /></a>
+<a href="#-lets-connect"><img src="https://img.shields.io/badge/Contact-0f172a?style=for-the-badge&logo=gmail&logoColor=38bdf8" alt="Contact" /></a>
 
 </div>
 
